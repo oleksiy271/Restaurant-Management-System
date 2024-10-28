@@ -27,6 +27,7 @@ It was really fun to work with these awesome geeks to get the job done:
 * [Mahnoor Kashif](https://github.com/mahnoorkashif)
 * [Shafaq Arshad](https://github.com/Shafaq15)
 * [Marriam Sajid](https://github.com/marriamsajid)
+* [Oleksii Mazurenko](https://github.com/oleksiy271)
 * All members of the Software Engineering class of Spring 2018 :)
 
 ---
